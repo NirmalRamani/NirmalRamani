@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nirmal kumar</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
 
+- 🔭 I’m currently working on **Youtube-clone**
+
+- 🌱 I’m currently learning **Microservices**
+
+- 💬 Ask me about **java/spring/oracle db**
+
+- 📫 How to reach me **nirmalworkspace@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
