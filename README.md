@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nirmal kumar</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
 
-- 🔭 I’m currently working on **Youtube-clone**
+- 🔭 I’m currently working on **Youtube-clone-project**
 
 - 🌱 I’m currently learning **Microservices**
 
