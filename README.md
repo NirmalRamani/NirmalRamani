@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Microservices**
 
-- 💬 Ask me about **java/spring/oracle db**
+- 💬 Ask me about **java/spring-boot/oracle db**
 
 - 📫 How to reach me **nirmalworkspace@gmail.com**
 
